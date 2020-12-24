@@ -12,7 +12,7 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
     
   </a>
   <a href="https://github.com/ImSaravanakrish/SoulqueenProBot">
-    <img src="https://img.shields.io/github/stars/saravanakrish97/SoulqueenProBot?style=social">
+    <img src="https://img.shields.io/github/stars/ImSaravanakrish/SoulqueenProBot?style=social">
   </a>
 </p>
 
