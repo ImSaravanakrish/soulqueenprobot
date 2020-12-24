@@ -1,4 +1,4 @@
-### @MissAndrea_Bot // http://www.telegram.dog/MissAndrea_Bot
+### @Namelessidiot_bot // http://www.telegram.dog/Namelessidiot_bot
 > with HunterxHunter theme.
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  
@@ -7,17 +7,17 @@
 Modular Telegram bot for managing your groups with a extras features with HunterxHunter theme.
 
 <p align="center">
-  <a href="https://github.com/DONOFTELEGRAM/AndreaProBot/fork">
-    <img src="https://img.shields.io/github/forks/DONOFTELEGRAM/AndreaProBot?label=Fork&style=social">
+  <a href="https://github.com/saravanakrish97/NamelessProBot/fork">
+    <img src="https://img.shields.io/github/forks/saravanakrish97/NamelessProBot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/DONOFTELEGRAM/AndreaProBot">
-    <img src="https://img.shields.io/github/stars/Sur-vivor/CinderellaProBot?style=social">
+  <a href="https://github.com/saravanakrish97/NamelessProBot">
+    <img src="https://img.shields.io/github/stars/saravanakrish97/NamelessProBot?style=social">
   </a>
 </p>
 
 ### Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/3055edd96c58853e03f15.jpg)](https://heroku.com/deploy?template=https://github.com/DONOFTELEGRAM/AndreaProBot.git)
+[![Deploy](https://telegra.ph/file/dcce4a21fcab47cea0333.jpg)](https://heroku.com/deploy?template=https://github.com/saravanakrish97/NamelessProBot.git)
 
 ### Configuration
 
@@ -38,7 +38,7 @@ from cinderella.sample_config import Config
 
 class Development(Config):
     OWNER_ID = 1169076058  # my telegram ID
-    OWNER_USERNAME = "SARAVANAKRISH"  # my telegram username
+    OWNER_USERNAME = "saravanakrish"  # my telegram username
     API_KEY = "your bot api key"  # my api key, as provided by the botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     MESSAGE_DUMP = '-1234567890' # some group chat that your bot is a member of
@@ -127,5 +127,4 @@ You should now be able to build your database URI. This will be:
 
 Replace sqldbtype with whichever db youre using (eg postgres, mysql, sqllite, etc)
 repeat for your username, password, hostname (localhost?), port (5432?), and db name.
-
 
