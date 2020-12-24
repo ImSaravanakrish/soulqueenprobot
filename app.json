@@ -49,7 +49,7 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "989037511"
+         "value": "1169076058"
       },
       "OWNER_NAME": {
          "description": "Your Name",
@@ -58,7 +58,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": "989037511"
+         "value": "1169076058"
       },
       "CASH_API_KEY": {
          "description": "Required for currency converter",
@@ -98,12 +98,12 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "989037511"
+         "value": "1169076058"
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "989037511"
+         "value": "1169076058"
       },
      
       "TOKEN": {
@@ -124,7 +124,7 @@
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "989037511"
+         "value": "1169076058"
       },
       "WALL_API":{
          "description": "Enter wall api",
@@ -153,8 +153,8 @@
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
     }
   ],
-   "name": "Andrea",
-   "repository": "https://github.com/DONOFTELEGRAM/AndreaProBot",
-   "success_url": "https://telegram.dog/AndreaProBot",
+   "name": "soulqueen",
+   "repository": "https://github.com/ImSaravanakrish/soulqueenprobot",
+   "success_url": "https://telegram.dog/nameless_probot",
    "logo": "https://telegra.ph/file/3055edd96c58853e03f15.jpg"
 }
