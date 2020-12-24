@@ -7,17 +7,17 @@
 Modular Telegram bot for managing your groups with a extras features with HunterxHunter theme.
 
 <p align="center">
-  <a href="https://github.com/saravanakrish97/NamelessProBot/fork">
-    <img src="https://img.shields.io/github/forks/saravanakrish97/NamelessProBot?label=Fork&style=social">
+  <a href="https://github.com/ImSaravanakrish/SoulqueenProBot/fork">
+    <img src="https://img.shields.io/github/forks/ImSaravanakrish/SoulqueenProBot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/saravanakrish97/NamelessProBot">
-    <img src="https://img.shields.io/github/stars/saravanakrish97/NamelessProBot?style=social">
+  <a href="https://github.com/ImSaravanakrish/SoulqueenProBot">
+    <img src="https://img.shields.io/github/stars/saravanakrish97/SoulqueenProBot?style=social">
   </a>
 </p>
 
 ### Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/dcce4a21fcab47cea0333.jpg)](https://heroku.com/deploy?template=https://github.com/saravanakrish97/NamelessProBot.git)
+[![Deploy](https://telegra.ph/file/dcce4a21fcab47cea0333.jpg)](https://heroku.com/deploy?template=https://github.com/ImSaravanakrish/SoulqueenProBot.git)
 
 ### Configuration
 
